@@ -3,16 +3,26 @@ text-align: center;
 margin-top: 20px;
 }
 
+.navbar{
+    background-color: rgb(204, 163, 243);
+    color: aliceblue;
+}
 
+.titulo{
+    margin-top: 20px;
+   text-align: center;
+}
 
-
+.tarjetas{
+    display: flex;
+    justify-content: space-around;
+}
 
 footer{
-    background-color: rgb(112, 73, 149);
+    background-color: rgb(204, 163, 243);
     text-align: center;
     justify-content: center;
     align-items: center;
-    color: aliceblue;
     margin-top: 25px;
     height: 25px;
 }
