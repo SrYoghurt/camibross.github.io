@@ -1,0 +1,18 @@
+.portrait{
+text-align: center;
+margin-top: 20px;
+}
+
+
+
+
+
+footer{
+    background-color: rgb(112, 73, 149);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    margin-top: 25px;
+    height: 25px;
+}
